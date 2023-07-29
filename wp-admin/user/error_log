@@ -1,0 +1,4 @@
+[01-Dec-2022 02:18:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/eire9d2tu5pr/public_html/edmaster.in/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/edmaster.in/wp-admin/user/menu.php on line 10

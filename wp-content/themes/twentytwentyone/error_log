@@ -1,0 +1,4 @@
+[18-Jun-2022 19:01:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentytwentyone/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentytwentyone/404.php on line 12

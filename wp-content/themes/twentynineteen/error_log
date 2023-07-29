@@ -1,0 +1,56 @@
+[24-Feb-2022 18:54:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php on line 12
+[26-Apr-2022 16:57:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/index.php on line 17
+[05-May-2022 05:19:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php on line 12
+[20-May-2022 12:28:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php on line 12
+[21-May-2022 01:26:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php on line 12
+[21-May-2022 06:37:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php on line 12
+[27-May-2022 11:14:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php on line 12
+[17-Jul-2022 01:55:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php on line 12
+[21-Aug-2022 04:43:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/index.php on line 17
+[31-Aug-2022 10:19:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php on line 12
+[24-Sep-2022 10:56:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php on line 12
+[29-Mar-2023 11:04:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php on line 12
+[10-Apr-2023 00:31:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php on line 12
+[01-Jul-2023 11:18:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/edmaster.in/wp-content/themes/twentynineteen/404.php on line 12
